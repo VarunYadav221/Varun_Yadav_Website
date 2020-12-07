@@ -1,1 +1,1 @@
-This is Varun Yadav's Personal Portfolia in Making. Varun is a graduate of Georgia Institute of Technology in 2016 and is preparing for his masters studies.
+This is Varun Yadav's Personal Portfolio in Making. Varun is a graduate of Georgia Institute of Technology in 2016 and is preparing for his masters studies.
