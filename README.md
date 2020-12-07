@@ -1,1 +1,2 @@
-This is Varun Yadav's Personal Portfolio in Making. Varun is a graduate of Georgia Institute of Technology in 2016 and is preparing for his masters studies.
+# Student Portfolio
+Hey! Welcome to my portfolio ! Its coming up tomorrow when I learn HTML and CSS with Tanay Pratap live on YouTube.
